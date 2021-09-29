@@ -1,0 +1,2 @@
+# Decomposition-of-Music-Signals-into-Multiple-Instruments
+In the present project report the procedure, results and conclusion of the simple two step algorithm to extract the instruments is given. This project tries to extract five commonly used instruments for production of pop western as well as Indian Bollywood songs. Decomposition of Music signal into multiple instruments is still in the research phase and is considered to be very complex challenge.
